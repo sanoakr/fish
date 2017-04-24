@@ -1,1 +1,1 @@
-# fish
+# fish configuration file
